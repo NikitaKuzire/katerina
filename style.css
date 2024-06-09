@@ -152,7 +152,7 @@ text-align: center;
 
 
 .xox {
-  background-color: white;
+ 
 border: 7px inset #E01F90;
 
 }
@@ -195,4 +195,7 @@ footer  {
  }
 .my {
     background-color: white;
+}
+.xpx {
+ background-color: white;
 }
