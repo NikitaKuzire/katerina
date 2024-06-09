@@ -95,7 +95,7 @@ border: 7px inset #E01F90;
 
 body {
 
-background-color: #7DE674;
+background-color: #8EDB84;
 
 }
 
@@ -179,4 +179,12 @@ footer {
 
 border: 15px groove #E01F90;
 
+}
+
+header {
+    background-image:linear-gradient(to right,#21ACDB,#D648DB);
+}
+
+footer  {
+    background-image:linear-gradient(to right,#21ACDB,#D648DB);
 }
