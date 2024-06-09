@@ -176,12 +176,12 @@ border: 15px groove #E01F90;
 }
 
 body {
-    background-image:linear-gradient(to right,#3916DB,#A216DB);
+    background-image:linear-gradient(to right,#5A56F5,#C155F5);
 }
 
 footer  {
-    background-image:linear-gradient(to right,#3916DB,#A216DB);
+    background-image:linear-gradient(to right,#5A56F5,#C155F5);
 }
  header {
-     background-image:linear-gradient(to right,#3916DB,#A216DB);
+     background-image:linear-gradient(to right,#5A56F5,#C155F5);
  }
