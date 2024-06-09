@@ -185,3 +185,6 @@ footer  {
  header {
      background-image:linear-gradient(to right,#5A56F5,#C155F5);
  }
+.my {
+    background-color: white;
+}
