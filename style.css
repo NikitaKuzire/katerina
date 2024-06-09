@@ -1,0 +1,182 @@
+.d {
+
+
+
+
+font-size: 30px;
+
+
+
+
+text-decoration: none;
+
+
+
+
+border: 2px groove #E01F90;
+
+
+
+
+border-radius: 15px;
+
+
+
+color: black;
+
+
+
+background-color: white;
+
+
+
+
+}
+
+
+
+
+header img {
+
+
+
+
+border: 7px inset #E01F90;
+
+
+
+
+}
+
+
+
+header {
+
+
+
+background-color: #7DE674;
+
+
+
+border: 15px groove #E01F90;
+
+
+
+
+}
+
+
+.p {
+
+text-align: center;
+
+}
+
+
+
+
+main {
+
+background-color: #7DE674;
+
+border-left: 7px inset #E01F90;
+
+border-right: 7px inset #E01F90;
+
+}
+
+
+.jo {
+
+border: 7px inset #E01F90;
+
+}
+
+
+body {
+
+background-color: #7DE674;
+
+}
+
+
+p {
+
+font-size: 20px;
+
+}
+
+
+main h2 {
+
+text-align: center;
+
+}
+
+.no {
+
+padding-left: 10px;
+
+padding-right: 10px;
+
+justify-content: center;
+
+}
+
+
+.wow {
+
+padding-left: 120px;
+
+padding-right: 50px;
+
+justify-content: center;
+
+}
+
+
+.wiw {
+
+padding-right: 50px;
+
+}
+
+
+.a {
+
+text-align: center;
+
+}
+
+
+.xox {
+
+border: 7px inset #E01F90;
+
+}
+
+
+.t {
+
+text-align: left;
+
+background-color: #E01F90;
+
+border: 3px groove #E01F90;
+
+
+}
+
+
+
+.hoh {
+
+text-align: center;
+
+}
+
+footer {
+
+border: 15px groove #E01F90;
+
+}
