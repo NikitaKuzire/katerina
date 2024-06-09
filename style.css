@@ -88,7 +88,7 @@ border-right: 7px inset #E01F90;
 .jo {
 
 border: 7px inset #E01F90;
-
+ background-color: white;
 }
 
 
@@ -185,6 +185,4 @@ footer  {
  header {
      background-image:linear-gradient(to right,#5A56F5,#C155F5);
  }
-.my {
-    background-color: white;
-}
+
