@@ -54,7 +54,6 @@ header {
 
 
 
-background-color: #7DE674;
 
 
 
@@ -77,7 +76,7 @@ text-align: center;
 
 main {
 
-background-color: #7DE674;
+
 
 border-left: 7px inset #E01F90;
 
@@ -93,11 +92,6 @@ border: 7px inset #E01F90;
 }
 
 
-body {
-
-background-color: #8EDB84;
-
-}
 
 
 p {
@@ -181,10 +175,13 @@ border: 15px groove #E01F90;
 
 }
 
-header {
-    background-image:linear-gradient(to right,#21ACDB,#D648DB);
+body {
+    background-image:linear-gradient(to right,#3916DB,#A216DB);
 }
 
 footer  {
-    background-image:linear-gradient(to right,#21ACDB,#D648DB);
+    background-image:linear-gradient(to right,#3916DB,#A216DB);
 }
+ header {
+     background-image:linear-gradient(to right,#3916DB,#A216DB);
+ }
