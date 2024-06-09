@@ -88,7 +88,7 @@ border-right: 7px inset #E01F90;
 .jo {
 
 border: 7px inset #E01F90;
- background-color: white;
+
 }
 
 
@@ -97,6 +97,14 @@ border: 7px inset #E01F90;
 p {
 
 font-size: 20px;
+
+}
+
+.lop {
+
+background-color: white;
+
+
 
 }
 
@@ -176,19 +184,15 @@ border: 15px groove #E01F90;
 }
 
 body {
-    background-image:linear-gradient(to right,#52DCF5,#DB8CF5);
+    background-image:linear-gradient(to right,#5A56F5,#C155F5);
 }
 
 footer  {
-    background-image:linear-gradient(to right,#52DCF5,#DB8CF5);
+    background-image:linear-gradient(to right,#5A56F5,#C155F5);
 }
  header {
-     background-image:linear-gradient(to right,#52DCF5,#DB8CF5);
+     background-image:linear-gradient(to right,#5A56F5,#C155F5);
  }
-.lop {
-
-background-color: white;
-
-
-
+.my {
+    background-color: white;
 }
